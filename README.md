@@ -31,9 +31,10 @@ Writes a short student introduction to introduction.txt, then reopens the file t
 
 ## Task 9: Student Record Management System
 A menu-driven program that manages student records using a list of dictionaries. It offers five operations in a loop until the user exits:
-- Add Student: collects name, age, and major, and appends a new dictionary to the students list
-- Display All Students: loops through the list and prints each record in a numbered, formatted layout
-- Search Student by Name: filters the list with a case-insensitive match and prints any results found
-- Delete Student: finds a matching record by name and removes it with .remove()
-- Exit: breaks out of the menu loop and ends the program
+- Add Student:   collects name, age, and major, and appends a new dictionary to the students list
+- Display All Students:   loops through the list and prints each record in a numbered, formatted layout
+- Search Student by Name:   filters the list with a case-insensitive match and prints any results found
+- Delete Student:   finds a matching record by name and removes it with .remove()
+- Exit:   breaks out of the menu loop and ends the program
+  
 Data is stored in memory only (the students list resets each time the program runs), and all four core operations reuse the same list of dictionaries as the underlying data structure.
