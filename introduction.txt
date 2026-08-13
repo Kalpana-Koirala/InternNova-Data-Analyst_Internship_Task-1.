@@ -1,1 +1,4 @@
- Hi, my name is Kalpana.I am a Computer Science graduated with a passion for programming and problem-solving.I enjoy learning new technologies and building projects that solve real-world problems.In my free time, I like to do coding & learning.
+Hi, my name is Kalpana.
+I am a Computer Science graduated with a passion for programming and problem-solving.
+I enjoy learning new technologies and building projects that solve real-world problems.
+In my free time, I like to do coding & learning.
