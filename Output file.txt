@@ -1,0 +1,227 @@
+Welcome to the Student info program
+Enter your Name: Kalpana
+Enter your college name: SSAASC
+Enter your branch: CS
+
+-----Student Information-----
+Name         : Kalpana
+College Name : SSAASC
+Branch       : CS
+
+-----Variable Data Types-----
+Data Type of 5  is: <class 'int'>
+Data Type of 5.5  is: <class 'float'>
+Data Type of Hello  is: <class 'str'>
+Data Type of True  is: <class 'bool'>
+
+Enter the first number:  12
+Enter the second number: 19
+
+----- Calculator Results-----
+Addition: 12 + 19 = 31
+Subtraction: 12 - 19 = -7
+Multiplication: 12 * 19 = 228
+Division: 12 / 19 = 0.631578947368421
+Modulus: 12 % 19 = 12
+
+Enter the sub_1 mark:   79
+B grade
+
+Enter the sub_1 mark:   80
+enter the sub_2 mark:   80
+enter the sub_3 mark:   60
+enter the sub_4 mark:   68
+enter the sub_5 mark:   51
+C grade
+
+Numbers from 1 to 20: 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+Enter a number: 3
+Enter a number: 4
+3 x 1 = 3
+3 x 2 = 6
+3 x 3 = 9
+
+Even numbers from 1 to 50: 
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+42
+44
+46
+48
+50
+
+Enter the number:   5
+25
+
+Enter first number: 6
+Enter second number: 7
+Enter third number: 8
+Average: 7.0
+
+Enter a word: Hi,I'm Kalpana.
+Enter the text to replace: Hi
+Enter the text to place: Hello
+Enter the text to find: Kalpana
+HI,I'M KALPANA.
+hi,i'm kalpana.
+Hello,I'm Kalpana.
+7
+
+Enter a word: Hello
+Enter a word: How are you?
+Enter a word: Fine
+
+Original list: ['Hello', 'How are you?', 'Fine']
+Enter a word to append: Good
+Appended word: ['Hello', 'How are you?', 'Fine', 'Good']
+Enter a word to remove: Fine
+After removal: ['Hello', 'How are you?', 'Good']
+Sorted list: ['Good', 'Hello', 'How are you?']
+
+Enter the first value:  23
+Enter the second value:  24
+Enter the third value:  25
+Enter the fourth value:  45
+
+ ('23', '24', '25', '45')
+
+This is index 0 value 23
+This is index 1 value 24
+This is index 2 value 25
+This is index 3 value 45
+
+Enter roll number: 2026
+Enter student name: Kalpana
+Enter age: 20
+Enter course: CS
+Enter marks: 90
+
+Student information {'roll_no': 2026, 'name': 'Kalpana', 'age': 20, 'course': 'CS', 'marks': 90.0}
+Roll No: 2026
+Name: Kalpana
+Age: 20
+Course: CS
+Marks: 90.0
+Enter new one: Computer Science
+Updated: {'roll_no': 2026, 'name': 'Kalpana', 'age': 20, 'course': 'Computer Science', 'marks': 90.0}
+
+Enter the value: 23
+Enter the value: 43
+Enter the value: 34
+
+Original set: {'43', '23', '34'}
+Enter a value to add: 54
+After adding: {'43', '23', '34', '54'}
+Enter a value to remove: 43
+After removing: {'23', '34', '54'}
+
+Introduction has been written to 'introduction.txt'
+
+Displaying the content:   Hi, my name is Kalpana.
+ I am a Computer Science graduated with a passion for programming and problem-solving.
+ I enjoy learning new technologies and building projects that solve real-world problems.
+
+STUDENT RECORD MANAGEMENT SYSTEM
+1. Add Student
+2. Display All Students
+3. Search Student by Name
+4. Delete Student
+5. Exit
+
+ Enter your choice (1-5): 1
+
+Enter student name: Kalpana
+Enter student age: 20
+Enter student major: CS
+
+Student 'Kalpana' added successfully!
+
+STUDENT RECORD MANAGEMENT SYSTEM
+1. Add Student
+2. Display All Students
+3. Search Student by Name
+4. Delete Student
+5. Exit
+
+ Enter your choice (1-5): 2
+
+========================================
+ALL STUDENT RECORDS
+========================================
+1. Name: Kalpana, Age: 20, Major: CS
+========================================
+
+STUDENT RECORD MANAGEMENT SYSTEM
+1. Add Student
+2. Display All Students
+3. Search Student by Name
+4. Delete Student
+5. Exit
+
+ Enter your choice (1-5): 3
+Enter the name to search: Kalpana
+
+ Student found:
+Name: Kalpana, Age: 20, Major: CS
+
+STUDENT RECORD MANAGEMENT SYSTEM
+1. Add Student
+2. Display All Students
+3. Search Student by Name
+4. Delete Student
+5. Exit
+
+ Enter your choice (1-5): 4
+Enter the name of the student to delete: Kalpana
+
+ Student 'Kalpana' deleted successfully!
+
+STUDENT RECORD MANAGEMENT SYSTEM
+1. Add Student
+2. Display All Students
+3. Search Student by Name
+4. Delete Student
+5. Exit
+
+ Enter your choice (1-5): 5
+
+Exiting the system. Goodbye!
